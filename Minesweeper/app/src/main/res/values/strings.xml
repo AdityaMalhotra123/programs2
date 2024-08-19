@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flag">Flag</string>
+    <string name="restart">Restart</string>
+    <string name="try_a_field">Try a Field</string>
+    <string name="congrats_you_flagged_all_the_mines_you_win">Congrats! You flagged all the mines. You win!</string>
+    <string name="oh_no_that_was_a_mistake_you_lose">Oh no. That was a mistake. You Lose!</string>
+    <string name="try_restarting">" Try restarting."</string>
+    <string name="try_mode">Try Mode</string>
+    <string name="flag_mode">Flag Mode</string>
+    <string name="welcome_to_minesweeper_by_adi">Welcome to Minesweeper by Adi</string>
+</resources>

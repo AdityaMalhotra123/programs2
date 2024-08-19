@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="title">Title</string>
+    <string name="error">Error</string>
+    <string name="amount_in">Amount in $</string>
+    <string name="income">Income</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete all</string>
+    <string name="sum">Sum</string>
+    <string name="no_items">No items</string>
+    <string name="priority">Priority</string>
+    <string name="delete">Delete</string>
+</resources>

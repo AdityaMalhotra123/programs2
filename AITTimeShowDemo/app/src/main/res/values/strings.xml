@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AITTimeShowDemo</string>
+    <string name="button_show">Show time</string>
+</resources>
